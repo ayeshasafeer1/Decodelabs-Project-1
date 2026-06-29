@@ -51,7 +51,7 @@ In future stages, this research will be used to:
 * Design high-fidelity UI screens
 * Build an interactive prototype
 
--Author
-Ayesha
-UI/UX Design Intern
-DecodeLabs Industrial Training Program – Batch 2026
+-Author:
+* Ayesha
+* UI/UX Design Intern
+* DecodeLabs Industrial Training Program – Batch 2026
